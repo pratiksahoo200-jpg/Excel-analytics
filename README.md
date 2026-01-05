@@ -4,9 +4,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a _customer performance report
+    **1.** Create a customer performance report
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets]
+    **2.** Conduct a comprehensive comparison between market performance and sales targets
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -19,10 +19,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]_ & _[Months]_ 
+    **1.** Create Profit and Loss (P&L) reports by Fiscal Year & Months 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
-
+   **2.** Create Profit and Loss (P&L) reports by Markets
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
